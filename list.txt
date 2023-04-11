@@ -1,5 +1,5 @@
  *://*.prompthunt.com/*
  *://*.openart.ai/*
--*://*.arthub.ai/*
-+*://*.arthub.ai/*
-+*://*.deviantart.com/doberfinch/*
+*://*.arthub.ai/*
+*://*.arthub.ai/*
+*://*.deviantart.com/doberfinch/*
